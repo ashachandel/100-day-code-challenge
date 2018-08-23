@@ -1,6 +1,3 @@
-# Python program to find the H.C.F of two input number
-
-# define a function
 def computeHCF(x, y):
 
 # choose the smaller number
